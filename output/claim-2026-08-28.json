@@ -1,26 +1,26 @@
 {
-  "player_id": "vapourise",
+  "player_id": "Vapourise",
   "region": "auto",
   "country_guess": "IN",
   "profile": {
-    "username": "vapourise",
-    "shortId": "5L8MNX",
-    "picUrl": "",
+    "username": "Vapourise",
+    "shortId": "7N7M5J",
+    "picUrl": "https://lh3.googleusercontent.com/a/ACg8ocJo7xVby8CYC18RrnFUgkSVXWzchphiktr7dg219OQqVzK1dmgr=s96-c",
     "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
-    "rank": "Rookie I",
-    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_1_rating_1.png"
+    "rank": "Master III",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_5_rating_3.png"
   },
   "resolved": {
     "region": "sa",
-    "country": "GB"
+    "country": "IN"
   },
-  "country": "GB",
+  "country": "IN",
   "freebies": [
     {
       "skuId": "com.activision.callofduty.shooter.tier_1b_0_0",
       "name": "DAILY GIFT",
       "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
+      "buyUrl": "https://order-sa.codashop.com/claim-freebie-reward",
       "remaining": 1,
       "limit": 1,
       "refreshRate": 86400.0,
@@ -29,12 +29,12 @@
     {
       "skuId": "com.activision.callofduty.weekotov2_1f_0_0",
       "name": "FREE LEGENDARY CALLING CARD - UNSTOPPABLE",
-      "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
-      "remaining": 1,
+      "status": "PURCHASE_LIMIT_REACHED",
+      "buyUrl": "https://order-sa.codashop.com/claim-freebie-reward",
+      "remaining": 0,
       "limit": 1,
       "refreshRate": 8640000000.0,
-      "refreshAtUnix": 10425542400
+      "refreshAtUnix": 10425542399
     }
   ],
   "ok": true,
